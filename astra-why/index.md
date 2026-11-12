@@ -5,7 +5,9 @@ source: https://lucumr.pocoo.org/2026/9/7/astra-why
 # Astra 编程：我们为何重蹈覆辙？
 
 > 原作者：Armin Ronacher，2026 年 9 月 7 日
+>
 > 原文链接：[astra-why](https://lucumr.pocoo.org/2026/9/7/astra-why)
+>
 > 本文初稿由 AI 生成，后经人类润色。
 
 ![原文](./assets/original-webpage-screenshot.png)
