@@ -7,6 +7,8 @@ source: https://t3.gg/blog/post/what-is-a-harness
 > 原作者：Theo，2026 年 10 月 22 日
 >
 > 原文链接：[what-is-a-harness](https://t3.gg/blog/post/what-is-a-harness)
+>
+> 本文由人类翻译而成，部分内容参考了 AI 翻译。
 
 ![原文](./assets/original-webpage-screenshot.png)
 
@@ -23,8 +25,6 @@ source: https://t3.gg/blog/post/what-is-a-harness
 一些交互界面的例子：Chrome 浏览器，Claude Code，ChatGPT 桌面端（前身为 Codex）。
 
 值得一提的是，人类不会看到底层的代码……通常来说。人类看到的只有交互界面。
-
-LLMs use harnesses
 
 ## 大语言模型（LLM）用的是 harness
 
